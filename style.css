@@ -1,0 +1,15 @@
+h1{
+    width: 80%;
+    font-size: 70px;
+}
+.name_of_objects{
+    background-image: linear-gradient(to right top, #00c0c7, #00f7ff, #ffeeee, #5ae7c2, #fcfcfc);
+}
+#result_object_name,#result_object_accuracy{
+    color: #daa700;
+}
+#camera,#result
+{
+    width: 350px;
+    height: 350px;
+}
